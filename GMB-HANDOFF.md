@@ -27,12 +27,20 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [x] Domain registered
 - [ ] Phone supplied and call links completed
 - [ ] Address supplied and final GMB pack completed
-- [ ] GitHub/Vercel/DNS launch completed
+- [x] GitHub/Vercel/DNS launch completed (custom DNS propagation pending)
+- [x] Phone/address-independent logo and photo pack prepared
 - [ ] GeoStamp synced
 
 ## Current state
 
-Local website draft is built and responsive QA passes at 1440, 1024, and 390 pixels. The approved domain is registered for one year with high privacy and auto-renew off. Phone actions are visibly disabled rather than fabricated.
+The public GitHub repository is connected to a `READY` Vercel production project. Apex and `www` are attached. Spaceship confirms Vercel custom nameservers; the single immediate public check still showed the prior launch nameservers, so custom DNS/HTTPS is propagation pending. The Vercel fallback passes HTTPS and brand-content checks. Local GMB assets contain one 1200px logo, four 1920x1080 covers, four 1600x1200 business photos, and `SOURCES.txt`. Phone actions remain visibly disabled rather than fabricated.
+
+## Production links
+
+- Website: https://washlantern.shop
+- Vercel fallback: https://wash-lantern-mobile-car-detailing-h.vercel.app
+- GitHub: https://github.com/DaInfernalCoder/wash-lantern-mobile-car-detailing-houston
+- Vercel project: https://vercel.com/dainfernalcoders-projects/wash-lantern-mobile-car-detailing-houston
 
 ## Draft GBP description
 
@@ -40,8 +48,8 @@ Wash Lantern Mobile Car Detailing Houston helps local drivers arrange detail-foc
 
 ## Blocker
 
-Final GMB completion requires the real phone and address. Public GitHub publishing is approved; launch is in progress.
+Final GMB completion requires the real phone and address. Custom DNS/HTTPS needs a later propagation recheck.
 
 ## Exact next action
 
-Create the dedicated public GitHub repository and Vercel production project, attach `washlantern.shop` and `www.washlantern.shop`, then update Spaceship nameservers.
+When the real phone and address arrive, enable call links, create `GMB-INFO.txt`, recheck the custom hosts once, and sync GeoStamp.
