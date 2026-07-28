@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://washlantern.shop/sitemap.xml
