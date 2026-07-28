@@ -28,7 +28,7 @@ Phone and street address have not been supplied. Do not invent them. Licensed st
 - [ ] Phone supplied and call links completed
 - [ ] Address supplied and final GMB pack completed
 - [x] GitHub/Vercel/DNS launch completed (custom DNS propagation pending)
-- [x] Phone/address-independent logo and photo pack prepared
+- [x] Phone/address-independent logo and photo pack completed
 - [ ] GeoStamp synced
 
 ## Current state
