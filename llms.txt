@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Richmond, Texas.
 
 ## Primary pages
-- [Homepage](https://washlantern.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://washlantern.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://washlantern.shop/#local-detailing): How mobile detailing works in Richmond.
+- [Homepage](https://richmondcardetailingco.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://richmondcardetailingco.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://richmondcardetailingco.shop/#local-detailing): How mobile detailing works in Richmond.
 
 ## Verified business facts
 - Business name: Wash Lantern Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://washlantern.shop/services/)
-- [Interior Car Detailing](https://washlantern.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://washlantern.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://washlantern.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://washlantern.shop/services/headlight-restoration/)
-- [About](https://washlantern.shop/about/)
-- [Contact](https://washlantern.shop/contact/)
+- [Services](https://richmondcardetailingco.shop/services/)
+- [Interior Car Detailing](https://richmondcardetailingco.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://richmondcardetailingco.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://richmondcardetailingco.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://richmondcardetailingco.shop/services/headlight-restoration/)
+- [About](https://richmondcardetailingco.shop/about/)
+- [Contact](https://richmondcardetailingco.shop/contact/)
 <!-- SEO-NEXT:END -->

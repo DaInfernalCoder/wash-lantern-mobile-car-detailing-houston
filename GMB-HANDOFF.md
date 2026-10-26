@@ -8,7 +8,7 @@ Create and launch Wash Lantern Mobile Car Detailing Houston as site 19 of the 10
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `washlantern.shop` (registered July 28, 2026)
+- Registered domain: `richmondcardetailingco.shop` (registered July 28, 2026)
 - Public phone: `+1 832-924-3582`
 - Street address: `7130 N Bridlewood Ct, Richmond, TX 77469`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
@@ -41,7 +41,7 @@ The public GitHub repository is connected to a `READY` Vercel production project
 
 ## Production links
 
-- Website: https://washlantern.shop
+- Website: https://richmondcardetailingco.shop
 - Vercel fallback: https://wash-lantern-mobile-car-detailing-h.vercel.app
 - GitHub: https://github.com/DaInfernalCoder/wash-lantern-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/wash-lantern-mobile-car-detailing-houston
