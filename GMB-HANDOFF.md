@@ -12,7 +12,7 @@ Create and launch Wash Lantern Mobile Car Detailing Houston as site 19 of the 10
 - Public phone: `+1 832-924-3582`
 - Street address: `7130 N Bridlewood Ct, Richmond, TX 77469`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://richmondcardetailingco.shop/scheduling
 
 ## Truth constraints
 
